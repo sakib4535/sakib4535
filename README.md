@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![logo](https://github.com/sakib4535/sakib4535/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Hasnain Imtiaz</h1>
-<h3 align="center">Driven and enthusiastic student with a passion for Machine learning, Data science, and Cybersecurity.</h3>
+<h3 align="center">Driven and enthusiastic student with a passion for Machine Learning, Data science, and Cybersecurity 
+in the domain of Computational Communication Science </h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1925451/screenshots/6051067/artboard_21_2x-100_copy.jpg">
 
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me? Here is my mail: **sakibimtiaz669@gmail.com**
 
-- ⚡ Fun fact **Perseverance is the key to success**
+- ⚡ Main fact **Perseverance is the key to success**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
