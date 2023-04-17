@@ -8,14 +8,14 @@ in the domain of Computational Communication Science </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib4535&label=Profile%20views&color=0e75b6&style=flat" alt="sakib4535" /> </p>
 
-- 🔭 I’m currently working on ** Media Behavioral Research Project: Machine Learning Approaches**
-                               ** Academic Research Methodologies and Statistical Modelling ** 
+- 🔭 I’m currently working on **Media Behavioral Research Project: Machine Learning Approaches**
+                               **Academic Research Methodologies and Statistical Modelling** 
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Advanced statistical Procedures and Modelling**
 
 - 📫 How to reach me? Here is my mail: **sakibimtiaz669@gmail.com**
 
-- ⚡ Main fact ** perseverance is a key ingredient for achieving success in any endeavor.**
+- ⚡ Main fact **Perseverance is a key ingredient for achieving success in any endeavor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
