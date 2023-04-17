@@ -9,7 +9,7 @@ in the domain of Computational Communication Science </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib4535&label=Profile%20views&color=0e75b6&style=flat" alt="sakib4535" /> </p>
 
 - 🔭 I’m currently working on **Media Behavioral Research Project: Machine Learning Approaches**
-                               **Academic Research Methodologies and Statistical Modelling** 
+                               \n**Academic Research Methodologies and Statistical Modelling** 
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Advanced statistical Procedures and Modelling**
 
