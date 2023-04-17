@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib4535&label=Profile%20views&color=0e75b6&style=flat" alt="sakib4535" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Behavioral Research Project**
+- 🔭 I’m currently working on **Media Behavioral Research Projectusing Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning and NLP**
+- 🌱 I’m currently learning **Machine Learning, NLP, Advanced statistical techniques and modelling**
 
-- 📫 How to reach me **sakibimtiaz669@gmail.com**
+- 📫 How to reach me? Here is my mail: **sakibimtiaz669@gmail.com**
 
 - ⚡ Fun fact **Perseverance is the key to success**
 
