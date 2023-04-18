@@ -3,10 +3,11 @@
 <h1 align="center">Hi 👋, I'm Hasnain Imtiaz</h1>
 <h3 align="center">Driven and enthusiastic student with a passion for Machine Learning, Data science, and Cybersecurity 
 in the domain of Computational Communication Science </h3>
-
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib4535" alt="sakib4535" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1925451/screenshots/6051067/artboard_21_2x-100_copy.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib4535&label=Profile%20views&color=0e75b6&style=flat" alt="sakib4535" /> </p>
+
 
 - 🔭 I’m currently working on **Media Behavioral Research Project: Machine Learning Approaches**, **Academic Research Methodologies and Statistical Modelling**
 
