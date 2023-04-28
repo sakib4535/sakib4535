@@ -7,6 +7,7 @@ in the domain of Computational Communication Science </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1925451/screenshots/6051067/artboard_21_2x-100_copy.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib4535&label=Profile%20views&color=0e75b6&style=flat" alt="sakib4535" /> </p>
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github&bg_color=black)
 
 
 - 🔭 I’m currently working with **Machine Learning Approaches and Algorithms**, **Data Science Methodologies**, **Object-oriented Programming**, **Advance Python Objects And Data Structures**
@@ -35,6 +36,9 @@ in the domain of Computational Communication Science </h3>
 ![Top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib4535&show_icons=true&theme=radical)  
 
 ![Top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib4535&layout=compact&card_width=600&theme=radical&langs_count=12)
+
+
+
 
 
 
