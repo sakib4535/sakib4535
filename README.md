@@ -36,9 +36,8 @@ in the domain of Computational Communication Science </h3>
 
 ![Top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib4535&layout=compact&theme=radical&langs_count=12)
 
-<p align="right">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sakib4535&theme=github&bg_color=black" alt="GitHub Activity Graph" />
-</p>
+
+
 
 
 
