@@ -30,9 +30,10 @@ in the domain of Computational Communication Science </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakib4535&show_icons=true&locale=en" alt="sakib4535" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib4535&" alt="sakib4535" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib4535&" alt="sakib4535"></p>
+
 
 ![Top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib4535&show_icons=true&theme=radical)
 
-
+![Top_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib4535&layout=compact&theme=radical&langs_count=12)
 
