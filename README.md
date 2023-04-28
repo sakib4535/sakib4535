@@ -6,8 +6,8 @@ in the domain of Computational Communication Science </h3>
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib4535" alt="sakib4535" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1925451/screenshots/6051067/artboard_21_2x-100_copy.jpg">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib4535&label=Profile%20views&color=0e75b6&style=flat" alt="sakib4535" /> </p>
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github&bg_color=black)
 
 
 - 🔭 I’m currently working with **Machine Learning Approaches and Algorithms**, **Data Science Methodologies**, **Object-oriented Programming**, **Advance Python Objects And Data Structures**
