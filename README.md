@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![logo](https://github.com/sakib4535/sakib4535/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Hasnain Imtiaz</h1>
-<h2 align='center'><i> Student of Machine Learning Engineering </i></h2>
+<h3 align='center'><i> Student of Machine Learning Engineering </i></h3>
 <h3 align="center"> Motivated and impassioned learner with an unwavering dedication to the realms of Machine Learning, Data Science, and Big Data within the sphere of Computational Communication Science.</h3>
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib4535" alt="sakib4535" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1925451/screenshots/6051067/artboard_21_2x-100_copy.jpg">
