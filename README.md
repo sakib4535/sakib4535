@@ -20,6 +20,8 @@
 
 - ⚡ Main fact **Perseverance is a key ingredient for achieving success in any endeavor.**
 
+- ⚡ Experience in Machine Learning with: **Linear Regression**, **Linear Regression**, **Linear Regression**, **Decision Trees**, **Decision Trees**, **Support Vector Machines (SVM)**, **Naive Bayes Classifier**, **K-Means Clustering**, **Principal Component Analysis (PCA)**, **Neural Networks (Feedforward, Convolutional, Recurrent)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hasnain-imtiaz-02b03a196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hasnain-imtiaz-02b03a196/" height="30" width="40" /></a>
