@@ -10,13 +10,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib4535&label=Profile%20views&color=0e75b6&style=flat" alt="sakib4535" /> </p>
 
 
-- 🔭 I’m currently working with **Machine Learning Approaches and Algorithms**, **Data Science Methodologies**, **Object-oriented Programming**, **Advance Python Objects And Data Structures**
+- 🔭 I’m currently working with **Machine Learning Approaches and Algorithms**, **Data Science Methodologies**, **Text Analytics**, **Large Language Models (LLM)**, **Time Series Analysis**
 
 - 💬 Ask me about **Coding Problems**
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Advanced statistical Procedures and Modelling**
 
-- 📫 How to reach me? Here is my mail: **sakibimtiaz669@gmail.com**
+- 📫 How to reach me? Here is my mail: **sakibimtiaz669@gmail.com** 
 
 - ⚡ Main fact **Perseverance is a key ingredient for achieving success in any endeavor.**
 
