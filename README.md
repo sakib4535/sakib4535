@@ -119,25 +119,6 @@
 
 ---
 
-<h3 align="center">Highlights</h3>
-<p align="center">
-  <a href="https://github.com/sakib4535/repo-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakib4535&repo=repo-name&theme=radical" alt="repo-name" />
-  </a>
-  <a href="https://github.com/sakib4535/repo-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakib4535&repo=repo-name&theme=radical" alt="repo-name" />
-  </a>
-</p>
-
-<h3 align="center">Open Source Projects</h3>
-<ul>
-  <li><a href="https://github.com/sakib4535/project1">Project 1</a></li>
-  <li><a href="https://github.com/sakib4535/project2">Project 2</a></li>
-  <li><a href="https://github.com/sakib4535/project3">Project 3</a></li>
-</ul>
-
----
-
 <h3 align="center">Contact</h3>
 <p align="center">
   <a href="mailto:sakibimtiaz669@gmail.com">
