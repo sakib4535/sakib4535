@@ -32,21 +32,6 @@
 
 ---
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/hasnain-imtiaz-02b03a196/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hasnain Imtiaz" height="30" width="40" />
-  </a>
-  <a href="https://github.com/sakib4535" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sakib4535" height="30" width="40" />
-  </a>
-  <a href="mailto:sakibimtiaz669@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sakibimtiaz669@gmail.com" height="30" width="40" />
-  </a>
-</p>
-
----
-
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
