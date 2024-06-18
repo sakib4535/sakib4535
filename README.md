@@ -14,13 +14,13 @@
 
 - 💬 Ask me about **Coding Problems**
 
-- 🌱 I’m currently learning **Machine Learning, NLP, Advanced statistical Procedures and Modelling**
+- 🌱 I’m currently learning **Machine Learning, Natural Language Processiong(NLP), Advanced statistical Procedures and Modelling, Sentiment Analysis, Text & Topic Modelling, Segmentation**
 
 - 📫 How to reach me? Here is my mail: **sakibimtiaz669@gmail.com** 
 
 - ⚡ Main fact **Perseverance is a key ingredient for achieving success in any endeavor.**
 
-- ⚡ Experience in Machine Learning with: **Linear Regression**, **Linear Regression**, **Linear Regression**, **Decision Trees**, **Decision Trees**, **Support Vector Machines (SVM)**, **Naive Bayes Classifier**, **K-Means Clustering**, **Principal Component Analysis (PCA)**, **Neural Networks (Feedforward, Convolutional, Recurrent)**
+- ⚡ Experience in Machine Learning with: **Linear Regression**, **Decision Trees**, **Random Forest**, **Support Vector Machines (SVM)**, **Naive Bayes Classifier**, **Clustering Algorithm**, **Principal Component Analysis (PCA)**, **Neural Networks (Feedforward, Convolutional-CNN, Recurrent-RNN)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
